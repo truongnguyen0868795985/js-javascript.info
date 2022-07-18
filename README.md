@@ -1,1 +1,1 @@
-# js-javascript.info
+# javascript.info
